@@ -1,5 +1,4 @@
 # Capstone-Two---Pre-processing-and-Training-Data-Development
-# Capstone Two – Preprocessing and Training Data Development
 
 ## Overview
 
